@@ -1,2 +1,3 @@
 Hello sample file by ishika patidar
-updating this file by writing this dghcfvsline
+updating this file by writing this line
+more content 
